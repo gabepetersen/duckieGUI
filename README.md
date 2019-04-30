@@ -65,6 +65,7 @@ void on_point18_clicked(bool check);
 1. Crashing that happens if you hit the points before it connects
 2. Resizing issue with the QT grid system
 3. Only can specify the destination points
+4. Add functionality for multiple duckiebots
 4. Has not been tested in conjunction with duckie_shells pacakge that would use it
 5. Has not been tested in implementation
 
